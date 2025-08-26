@@ -8,8 +8,7 @@
     "build": "vite build",
     "preview": "vite preview",
     "lint": "echo \"No linter configured\"",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist"
+
   },
   "dependencies": {
     "aos": "^2.3.4",
