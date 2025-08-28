@@ -1,28 +1,28 @@
 [
   {
     "id": 1,
-    "name": "Shiv",
+    "name": "Aarav",
     "avatar": "https://i.pravatar.cc/100?img=11",
     "rating": 5,
     "comment": "Amazing experience! Everything was smooth and well organized."
   },
   {
-    "id": 2, 
-    "name": "Vivek",
+    "id": 2,
+    "name": "Siya",
     "avatar": "https://i.pravatar.cc/100?img=12",
     "rating": 4,
     "comment": "Great value for money. Loved the itinerary and guides."
   },
   {
     "id": 3,
-    "name": "Aditya",
+    "name": "Rohan",
     "avatar": "https://i.pravatar.cc/100?img=13",
     "rating": 5,
     "comment": "Superb service and quick support from the team."
   },
   {
     "id": 4,
-    "name": "Anand",
+    "name": "Anika",
     "avatar": "https://i.pravatar.cc/100?img=14",
     "rating": 4,
     "comment": "Beautiful destinations and comfortable stays!"

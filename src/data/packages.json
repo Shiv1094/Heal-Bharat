@@ -1,27 +1,27 @@
 [
   {
     "id": 1,
-    "title": "Goa ",
+    "title": "Goa Getaway",
     "category": "Beach",
     "image": "/images/goa.jpeg",
-    "description": "4 day / nights in  Goa with beach and nightlife.",
+    "description": "3 nights in North Goa with beach hopping and nightlife.",
     "price": 12999,
     "duration": "4D/3N",
     "popularity": 95
   },
-  { 
+  {
     "id": 2,
     "title": "Manali",
     "category": "Adventure",
     "image": "/images/manali.jpeg",
     "description": "5 days of trekking, river rafting, and local sightseeing.",
-    "price": 20000,
+    "price": 17999,
     "duration": "5D/4N",
     "popularity": 90
   },
   {
     "id": 3,
-    "title": "Rajasthan - Jaipur",
+    "title": " Rajasthan - Jaipur",
     "category": "Cultural",
     "image": "/images/jaipur.jpeg",
     "description": "Explore forts, palaces, and the bustling markets of Jaipur.",
@@ -45,13 +45,13 @@
     "category": "Adventure",
     "image": "/images/ladakh.jpeg",
     "description": "High-altitude lakes, monasteries, and scenic drives.",
-    "price": 30000,
+    "price": 29999,
     "duration": "6D/5N",
     "popularity": 92
   },
   {
     "id": 6,
-    "title": "Mumbai City ",
+    "title": "Mumbai City Break",
     "category": "Urban",
     "image": "/images/mumbai.jpeg",
     "description": "Iconic landmarks, street food tour, and Marine Drive sunset.",
@@ -61,7 +61,7 @@
   },
   {
     "id": 7,
-    "title": "Andaman Island ",
+    "title": "Andaman Beach Bliss",
     "category": "Beach",
     "image": "/images/andaman.jpeg",
     "description": "Snorkeling, scuba diving, and white-sand beaches.",

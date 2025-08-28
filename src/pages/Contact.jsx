@@ -61,7 +61,7 @@ export default function Contact(){
             <div className="card p-3 h-100">
               <h5>Contact Details</h5>
               <p className="mb-1">📞 +91 98765 43210</p>
-              <p className="mb-1">✉️ travelexplorer@gmail.com</p>
+              <p className="mb-1">✉️ hello@travelexplorer.com</p>
               <p className="mb-0">🏢 Pune, Maharashtra</p>
             </div>
           </div>

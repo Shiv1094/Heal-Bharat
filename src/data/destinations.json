@@ -18,13 +18,13 @@
     "title": "Jaipur City",
     "category": "Cultural",
     "image": "/images/jaipur.jpeg",
-    "description": "The Pink City's palaces, forts, and rich traditions. Capital of Rajasthan"
+    "description": "The Pink City's palaces, forts, and rich traditions."
   },
   {
     "id": 4,
     "title": "Mumbai",
     "category": "Urban",
-    "image": "/images/manali.jpeg",
+    "image": "/images/mumbai.jpeg",
     "description": "India's buzzing financial capital with endless experiences."
   },
   {
@@ -41,7 +41,7 @@
     "image": "/images/ladakh.jpeg",
     "description": "High-altitude deserts, monasteries, and starry skies."
   },
-  { 
+  {
     "id": 7,
     "title": "Hampi Ruins",
     "category": "Cultural",

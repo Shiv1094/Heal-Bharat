@@ -8,7 +8,7 @@ export default function About(){
         <div className="row g-4">
           <div className="col-md-6">
             <p className="lead">We are a passionate team dedicated to crafting memorable travel experiences across India and beyond.</p>
-            <p>Founded in 2025, we've served thousands of happy travelers with curated itineraries, reliable partners, and seamless support.</p>
+            <p>Founded in 2015, we've served thousands of happy travelers with curated itineraries, reliable partners, and seamless support.</p>
           </div>
           <div className="col-md-6">
             <ul className="timeline list-unstyled m-0">
@@ -23,14 +23,14 @@ export default function About(){
           {[1,2,3,4].map(i=>(
             <div key={i} className="col-6 col-md-3">
               <div className="card text-center card-hover" data-aos="zoom-in">
-                <img  className="card-img-top" alt="Team member"/>
+                <img src={`https://i.pravatar.cc/300?img=${i+10}`} className="card-img-top" alt="Team member"/>
                 <div className="card-body">
                   <div className="fw-semibold">Team Member {i}</div>
                   <div className="text-muted small">Travel Expert</div>
                 </div>
               </div>
             </div>
-          ))} 
+          ))}
         </div>
       </div>
     </section>

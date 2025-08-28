@@ -1,6 +1,6 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
-import { FaFacebook, FaGithub, FaInstagram, FaLinkedin } from 'react-icons/fa'
+import { FaGithub, FaInstagram, FaLinkedin } from 'react-icons/fa'
 
 export default function Footer(){
   return (
@@ -22,7 +22,7 @@ export default function Footer(){
           <div className="col-md-3">
             <h6>Follow Us</h6>
             <div className="d-flex gap-3">
-              <a href="#" aria-label="Facebook"><FaFacebook/></a>
+              <a href="#" aria-label="GitHub"><FaGithub/></a>
               <a href="#" aria-label="LinkedIn"><FaLinkedin/></a>
               <a href="#" aria-label="Instagram"><FaInstagram/></a>
             </div>
