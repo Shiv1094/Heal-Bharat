@@ -23,7 +23,7 @@ export default function About(){
           {[1,2,3,4].map(i=>(
             <div key={i} className="col-6 col-md-3">
               <div className="card text-center card-hover" data-aos="zoom-in">
-                <img src={`https://i.pravatar.cc/300?img=${i+10}`} className="card-img-top" alt="Team member"/>
+                <img  className="card-img-top" alt="Team member"/>
                 <div className="card-body">
                   <div className="fw-semibold">Team Member {i}</div>
                   <div className="text-muted small">Travel Expert</div>
